@@ -1,0 +1,35 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: maroon;
+}
+
+#david-a {
+  font-size: 2.5rem;
+}
+
+#david-a:hover {
+  color: #fff;
+}
+
+.nav-items-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 45vw;
+}
+
+h3 {
+  align-self: center;
+}
+
+a {
+  all: unset;
+  padding: 5px 5px 5px 5px;
+}
+
+a:hover {
+  color: #fff;
+}
+
+/* media queries for mobile responsiveness */
+
