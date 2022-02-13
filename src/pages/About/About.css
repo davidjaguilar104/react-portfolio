@@ -1,4 +1,9 @@
-section {
+section { 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  height: 64vh;
   background-color: #353b3c;
 }
 
@@ -9,6 +14,7 @@ h1 {
 }
 
 img {
+  align-self: center;
   height: 25vh;
   width: 13vw;
   border-radius: 45px;

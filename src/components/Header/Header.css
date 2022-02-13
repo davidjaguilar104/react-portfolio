@@ -1,4 +1,5 @@
 nav {
+  height: 17vh;
   display: flex;
   justify-content: space-around;
   background-color: #A2999E;
