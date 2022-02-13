@@ -1,0 +1,21 @@
+main {
+  background-color: #353b3c;
+}
+
+h1 {
+  color: #fff;
+}
+
+h1:hover {
+  color: #000;
+}
+
+img {
+  height: 25vh;
+  width: 13vw;
+  border-radius: 45px;
+}
+
+p {
+  color: #fff;
+}
