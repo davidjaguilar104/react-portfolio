@@ -3,11 +3,23 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 64vh;
+  height: 90vh;
   background-color: #846a6a;
+}
+
+.app-row {
+  display: flex;
+  justify-content: space-between;
+  width: 60vw;
+}
+
+.link-img {
+  display: flex;
+  flex-direction: column;
 }
 
 img {
   height: 20vh;
   width: 20vw;
 }
+
