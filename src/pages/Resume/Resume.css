@@ -7,6 +7,12 @@ section {
   background-color: #846a6a;
 }
 
+.tech-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+
 button {
   background-color: #eff0d1;
   border: 1px solid #000;
