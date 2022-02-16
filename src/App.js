@@ -10,20 +10,20 @@ function App() {
   const [currentPage, setCurrentPage] = useState("Home");
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
+ 
   const renderPage = () => {
-    if (currentPage === "#about") {
-      return <About />;
+    switch (currentPage) {
+      case "#about":
+        return <About />;
+      case "#portfolio":
+        return <Portfolio />;
+      case "#contact":
+        return <Contact />;
+      case "#resume":
+        return <Resume />;
+      default:
+        return <About />;
     }
-    if (currentPage === "#portfolio") {
-      return <Portfolio />;
-    }
-    if (currentPage === "#contact") {
-      return <Contact />;
-    }
-    if (currentPage === "#resume") {
-      return <Resume/>;
-    }
-    return <About />;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
