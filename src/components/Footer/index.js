@@ -29,8 +29,8 @@ function Footer() {
           <a
             rel="noreferrer"
             target="_blank"
-            href="https://www.linkedin.com/in/david-aguilar-165bbb21b/"
-            alt="Link to LinkedIn profile"
+            href="https://twitter.com/davidaguilardev"
+            alt="Link to Twitter profile"
           >
             Twitter
           </a>
