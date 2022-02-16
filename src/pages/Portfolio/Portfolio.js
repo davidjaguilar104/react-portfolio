@@ -34,14 +34,14 @@ function Portfolio() {
       </div>
       <div className="app-row">
         <div className="link-img">
-          <a href="">
+          <a href="https://github.com/davidjaguilar104/pwa-budget-tracker">
             Budget Tracker Repository
           </a>
           <a
-            href=""
-            alt="Link for Animal Showdown application"
+            href="https://github.com/davidjaguilar104/pwa-budget-tracker"
+            alt="Link for Budget Tracker application"
           >
-            <img src={budgetTracker} alt="Animal Showdown app"></img>
+            <img src={budgetTracker} alt="Budget Tracker app"></img>
           </a>
         </div>
         <div className="link-img">
