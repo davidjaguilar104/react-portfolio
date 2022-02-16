@@ -31,4 +31,8 @@ a:hover {
   color: #000;
 }
 
+.nav-link {
+  color: #eff0d1;
+}
+
 /* media queries for mobile responsiveness */
