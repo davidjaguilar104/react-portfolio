@@ -17,7 +17,11 @@ function Portfolio() {
             href="https://animalshowdown.herokuapp.com/login"
             alt="Link for Animal Showdown application"
           >
-            <img src={animalShowdown} alt="Animal Showdown app"></img>
+            <img
+              className="app-img"
+              src={animalShowdown}
+              alt="Animal Showdown app"
+            ></img>
           </a>
         </div>
         <div className="link-img">
@@ -28,7 +32,11 @@ function Portfolio() {
             href="https://davidjaguilar104.github.io/recipe-nutrition-app/"
             alt="Link for Animal Showdown application"
           >
-            <img src={recipeNutrition} alt="Animal Showdown app"></img>
+            <img
+              className="app-img"
+              src={recipeNutrition}
+              alt="Animal Showdown app"
+            ></img>
           </a>
         </div>
       </div>
@@ -41,7 +49,11 @@ function Portfolio() {
             href="https://github.com/davidjaguilar104/pwa-budget-tracker"
             alt="Link for Budget Tracker application"
           >
-            <img src={budgetTracker} alt="Budget Tracker app"></img>
+            <img
+              className="app-img"
+              src={budgetTracker}
+              alt="Budget Tracker app"
+            ></img>
           </a>
         </div>
         <div className="link-img">
@@ -52,7 +64,11 @@ function Portfolio() {
             href="https://animalshowdown.herokuapp.com/login"
             alt="Link for Animal Showdown application"
           >
-            <img src={animalShowdown} alt="Animal Showdown app"></img>
+            <img
+              className="app-img"
+              src={animalShowdown}
+              alt="Animal Showdown app"
+            ></img>
           </a>
         </div>
       </div>
@@ -65,7 +81,11 @@ function Portfolio() {
             href="https://animalshowdown.herokuapp.com/login"
             alt="Link for Animal Showdown application"
           >
-            <img src={animalShowdown} alt="Animal Showdown app"></img>
+            <img
+              className="app-img"
+              src={animalShowdown}
+              alt="Animal Showdown app"
+            ></img>
           </a>
         </div>
         <div className="link-img">
@@ -76,7 +96,11 @@ function Portfolio() {
             href="https://animalshowdown.herokuapp.com/login"
             alt="Link for Animal Showdown application"
           >
-            <img src={animalShowdown} alt="Animal Showdown app"></img>
+            <img
+              className="app-img"
+              src={animalShowdown}
+              alt="Animal Showdown app"
+            ></img>
           </a>
         </div>
       </div>
