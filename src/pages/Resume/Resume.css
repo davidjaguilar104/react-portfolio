@@ -24,3 +24,15 @@ button {
 button:hover {
   background-color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .tech-wrapper {
+    flex-direction: column;
+    width: unset;
+  }
+
+  button {
+    height: 8vh;
+    width: 53vw;
+  }
+}
