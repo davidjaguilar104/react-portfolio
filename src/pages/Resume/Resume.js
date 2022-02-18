@@ -29,7 +29,7 @@ function Resume() {
       </div>
       <button>
         <a href={myResume} download>
-          Resume
+          Download Resume
         </a>
       </button>
     </section>
