@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.81246880.css",
+    "main.js": "/react-portfolio/static/js/main.b8f2fb03.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/stew-brew.png": "/react-portfolio/static/media/stew-brew.9b1843f392ab3bba6239.png",
+    "static/media/budget-tracker.png": "/react-portfolio/static/media/budget-tracker.6c0f7d0f5eacf4286ecf.png",
+    "static/media/pass-gen.png": "/react-portfolio/static/media/pass-gen.d394cfba5c3259b1cb68.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.a03a83df15fddb67b940.png",
+    "static/media/portrait.jpg": "/react-portfolio/static/media/portrait.ba3ec5324be51144c4ee.jpg",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.9e5b1ee47ff12d1168e7.png",
+    "static/media/background.jpg": "/react-portfolio/static/media/background.3acc5b482d02bab390cf.jpg",
+    "static/media/Tech Resume.docx": "/react-portfolio/static/media/Tech Resume.712e141b7c037e8a307e.docx",
+    "index.html": "/react-portfolio/index.html",
+    "main.81246880.css.map": "/react-portfolio/static/css/main.81246880.css.map",
+    "main.b8f2fb03.js.map": "/react-portfolio/static/js/main.b8f2fb03.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81246880.css",
+    "static/js/main.b8f2fb03.js"
+  ]
+}
