@@ -5,7 +5,7 @@ import myResume from "../../assets/Tech Resume.docx";
 function Resume() {
   return (
     <section>
-      <h3>Proficient in: </h3>
+      <h1>Proficient in: </h1>
       <div className="tech-wrapper">
         <ul>
           <h4>Frontend</h4>

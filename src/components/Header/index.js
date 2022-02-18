@@ -7,7 +7,6 @@ function Header({ currentPage, handlePageChange }) {
     <nav>
       <h1 id="david-a">
         <a
-          className={currentPage === "#about" && "nav-link"}
           onClick={() => handlePageChange("#about")}
           href="#about"
         >

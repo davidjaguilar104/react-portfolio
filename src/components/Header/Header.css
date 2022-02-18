@@ -2,7 +2,7 @@ nav {
   height: 17vh;
   display: flex;
   justify-content: space-around;
-  background-color: #A2999E;
+  background-color: #a2999e;
 }
 
 #david-a {
@@ -36,3 +36,33 @@ a:hover {
 }
 
 /* media queries for mobile responsiveness */
+
+@media screen and (max-width: 425px) {
+  nav {
+    height: 45vh;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #david-a {
+    font-size: 1.5rem;
+  }
+
+  .nav-items-wrapper {
+    flex-direction: column;
+    height: 24vh;
+  }
+}
+
+@media screen and (max-width: 768px) and (min-width: 425px) {
+  nav {
+    height: 45vh;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-items-wrapper {
+    flex-direction: column;
+    height: 24vh;
+  }
+}

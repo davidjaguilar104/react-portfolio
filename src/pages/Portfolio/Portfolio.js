@@ -50,7 +50,7 @@ function Portfolio() {
 
   return (
     <section>
-      <h3>Portfolio</h3>
+      <h1>Portfolio</h1>
       <div className="app-row">
         <Project project={projects[0]}></Project>
         <Project project={projects[1]}></Project>

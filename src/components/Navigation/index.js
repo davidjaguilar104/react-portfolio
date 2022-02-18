@@ -5,7 +5,7 @@ function Navigation({ currentPage, handlePageChange }) {
     <div className="nav-items-wrapper">
       <h3>
         <a
-          className={currentPage === "#about" && "nav-link"}
+          className={currentPage === "#about" ? "nav-link" : null}
           onClick={() => handlePageChange("#about")}
           href="#about"
         >
@@ -14,7 +14,7 @@ function Navigation({ currentPage, handlePageChange }) {
       </h3>
       <h3>
         <a
-          className={currentPage === "#portfolio" && "nav-link"}
+          className={currentPage === "#portfolio" ? "nav-link" : null}
           onClick={() => handlePageChange("#portfolio")}
           href="#portfolio"
         >
@@ -23,7 +23,7 @@ function Navigation({ currentPage, handlePageChange }) {
       </h3>
       <h3>
         <a
-          className={currentPage === "#contact" && "nav-link"}
+          className={currentPage === "#contact" ? "nav-link" : null}
           onClick={() => handlePageChange("#contact")}
           href="#contact"
         >
@@ -32,7 +32,7 @@ function Navigation({ currentPage, handlePageChange }) {
       </h3>
       <h3>
         <a
-          className={currentPage === "#resume" && "nav-link"}
+          className={currentPage === "#resume" ? "nav-link" : null}
           onClick={() => handlePageChange("#resume")}
           href="#resume"
         >
