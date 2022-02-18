@@ -10,16 +10,6 @@ section {
 .app-row {
   display: flex;
   justify-content: space-between;
-  width: 60vw;
-}
-
-.link-img {
-  display: flex;
-  flex-direction: column;
-}
-
-.app-img {
-  height: 20vh;
-  width: 20vw;
+  width: 90vw;
 }
 
